@@ -115,3 +115,105 @@ d36ce6ff41cb   mysql:latest              "docker-entrypoint.s…"   6 seconds ag
 
 okay so it is path that stores all the prior data in files readable only by sql engine and any new data will be stored in the specified db which will further be stored in files of volumes
 
+
+
+
+
+✅ Perfect — and what you’re observing is **exactly correct Docker behavior.**
+Nothing is wrong. In fact, this proves your understanding is improving 👍
+
+---
+
+## 🔹 What is happening (simple truth)
+
+Each time you recreate the container, MySQL reads data from **whatever is mounted at `/var/lib/mysql`**.
+
+### Case 1 — When you use the named volume
+
+```bash
+-v mysql-data:/var/lib/mysql
+```
+
+👉 MySQL reads files from the **volume**
+👉 So you see the data that was stored earlier in the volume
+👉 Bind-mount data is invisible
+
+---
+
+### Case 2 — When you use the bind mount
+
+```bash
+-v /Users/.../mysql-logs:/var/lib/mysql
+```
+
+👉 MySQL reads files from the **host folder**
+👉 So you see the bind-mount data
+👉 Volume data is invisible
+
+---
+
+## 🔥 Why you never see both
+
+Because at runtime:
+
+```text
+/var/lib/mysql → exactly ONE backing storage
+```
+
+Docker does **not merge**:
+
+* volume data ❌
+* bind mount data ❌
+
+It simply switches the storage source.
+
+---
+
+## 🧠 Mental model (very interview-friendly)
+
+Think of `/var/lib/mysql` like a **hard disk slot**.
+
+* When you plug volume → you see volume data
+* When you plug bind mount → you see bind data
+* The other disk is completely hidden
+
+---
+
+## 🔹 Why MySQL behaves this way
+
+MySQL does not know about Docker.
+
+It simply:
+
+1. Starts
+2. Reads whatever files exist in `/var/lib/mysql`
+3. Uses them as the database
+
+Docker decides **what filesystem appears there**.
+
+---
+
+## ✅ Your observation proves:
+
+✔ Volume persistence is working
+✔ Bind mount persistence is working
+✔ Container recreation is correct
+✔ Mount switching is correct
+
+You are doing it right 👌
+
+---
+
+## 🎯 Interview one-liner
+
+> A container can mount only one storage backend at a given path, so when switching between a named volume and a bind mount for `/var/lib/mysql`, MySQL will only see the data from whichever storage is currently mounted.
+
+---
+
+If you want next-level mastery 🚀, I can show:
+
+🔥 **What happens if you accidentally mount TWO things to the same path (mount override order)**
+
+Just say **"show override"** 😏
+
+
