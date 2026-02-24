@@ -82,15 +82,30 @@ mysql> select * from messages; (messages is the table name where the input text 
 +----+---------+
 2 rows in set (0.001 sec)
 
-docker run -d \
+docker run -d \ (Docker Volume)
   --name MySQL-container \
   --network two-tier-network \
   -e MYSQL_ROOT_PASSWORD=root \
   -e MYSQL_DATABASE=DevOps \
   -v mysql-data:/var/lib/mysql \
-  -v /Users/umashankersinghujjwal/projects/two-tier-flask-app/mysql-logs:/var/log/mysql \
   mysql:latest
 d36ce6ff41cb470f1f21f7b2772a45ac285bf3171112485999c10911823a449e
+
+for docker volume no such manual table creation is required everything is handled by sql engine.
+
+docker run -d \ (Bind Mount/ Local Storage)
+  --name MySQL-container \
+  --network two-tier-network \
+  -e MYSQL_ROOT_PASSWORD=root \
+  -e MYSQL_DATABASE=DevOps \
+  -v /Users/umashankersinghujjwal/projects/two-tier-flask-app/mysql-logs:/var/lib/mysql \
+  mysql:latest
+
+  For bind mount the "messages" table is not created automatically, which throws error. Thus, manually create table.
+  CREATE TABLE IF NOT EXISTS messages (
+            id INT AUTO_INCREMENT PRIMARY KEY,
+            message TEXT
+        );
 
 docker ps -a
 CONTAINER ID   IMAGE                     COMMAND                  CREATED          STATUS          PORTS                                         NAMES
