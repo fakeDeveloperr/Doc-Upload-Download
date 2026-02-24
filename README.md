@@ -82,3 +82,19 @@ mysql> select * from messages; (messages is the table name where the input text 
 +----+---------+
 2 rows in set (0.001 sec)
 
+docker run -d \
+  --name MySQL-container \
+  --network two-tier-network \
+  -e MYSQL_ROOT_PASSWORD=root \
+  -e MYSQL_DATABASE=DevOps \
+  -v mysql-data:/var/lib/mysql \
+  -v /Users/umashankersinghujjwal/projects/two-tier-flask-app/mysql-logs:/var/log/mysql \
+  mysql:latest
+d36ce6ff41cb470f1f21f7b2772a45ac285bf3171112485999c10911823a449e
+
+docker ps -a
+CONTAINER ID   IMAGE                     COMMAND                  CREATED          STATUS          PORTS                                         NAMES
+d36ce6ff41cb   mysql:latest              "docker-entrypoint.s…"   6 seconds ago    Up 5 seconds    3306/tcp, 33060/tcp                           MySQL-container
+4879849c9234   two-tier-backend:latest   "python app.py"          21 minutes ago   Up 21 minutes   0.0.0.0:5001->5000/tcp, [::]:5001->5000/tcp   Flask-App-container
+
+
