@@ -98,3 +98,5 @@ d36ce6ff41cb   mysql:latest              "docker-entrypoint.s…"   6 seconds ag
 4879849c9234   two-tier-backend:latest   "python app.py"          21 minutes ago   Up 21 minutes   0.0.0.0:5001->5000/tcp, [::]:5001->5000/tcp   Flask-App-container
 
 
+okay so it is path that stores all the prior data in files readable only by sql engine and any new data will be stored in the specified db which will further be stored in files of volumes
+
