@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="b4t-OHUZPeLjAcX_frFG">
-    <mxGraphModel dx="901" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="730" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="JEUizxt-pyhx6dGXGkAJ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Agent Loop" vertex="1">
           <mxGeometry height="30" width="60" x="146" y="1384" as="geometry" />
         </mxCell>
-        <mxCell id="JEUizxt-pyhx6dGXGkAJ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;ul style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;&lt;li&gt;Observability &amp;amp; Evaluations&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="JEUizxt-pyhx6dGXGkAJ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;ul style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;&lt;li&gt;Observability &amp;amp; Evaluations usinf LangFuse&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="60" width="155" x="574" y="842" as="geometry" />
         </mxCell>
       </root>
