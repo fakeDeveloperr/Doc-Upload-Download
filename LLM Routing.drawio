@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="b4t-OHUZPeLjAcX_frFG">
-    <mxGraphModel dx="1032" dy="627" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="901" dy="645" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,7 +28,7 @@
         <mxCell id="MyxVNCEdh3MRacfrhNUW-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;verticalAlign=top;fontSize=14;fontStyle=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="LLM&amp;nbsp; Gateway Layer" vertex="1">
           <mxGeometry height="316" width="240" x="46" y="586" as="geometry" />
         </mxCell>
-        <mxCell id="MyxVNCEdh3MRacfrhNUW-2" parent="1" style="rounded=0;html=1;verticalAlign=top;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;align=left;labelBackgroundColor=none;whiteSpace=wrap;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Capabilities:&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Unified API&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Automatic Fallback&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;LLM Routing Engine&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Load Balancing&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Caching&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Rate Limiting&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Guardrails&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Observability &amp;amp; Evaluations&lt;/li&gt;&lt;li style=&quot;&quot;&gt;LLM Proxy + LLM Provider Adpaters&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+        <mxCell id="MyxVNCEdh3MRacfrhNUW-2" parent="1" style="rounded=0;html=1;verticalAlign=top;labelBorderColor=none;fontFamily=Times New Roman;fontSize=12;align=left;labelBackgroundColor=none;whiteSpace=wrap;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;Capabilities:&lt;/span&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Unified API&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Automatic Fallback&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;LLM Routing Engine&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Load Balancing&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Caching&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Rate Limiting&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Guardrails&lt;/li&gt;&lt;li style=&quot;&quot;&gt;LLM Proxy + LLM Provider Adpaters&amp;nbsp;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Token Usage / cost / latency&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="184" width="190" x="70" y="620" as="geometry" />
         </mxCell>
         <mxCell id="zII8FL1W6vDsOD84WCIU-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;verticalAlign=top;align=left;" value="&lt;ul&gt;&lt;li&gt;Anthropic Claude&lt;/li&gt;&lt;li&gt;Google Gemini&lt;/li&gt;&lt;li&gt;OpenAI GPT&lt;/li&gt;&lt;li&gt;MS Copilot&lt;/li&gt;&lt;/ul&gt;" vertex="1">
@@ -59,7 +59,7 @@
           <mxGeometry height="60" width="120" x="707" y="113" as="geometry" />
         </mxCell>
         <mxCell id="zII8FL1W6vDsOD84WCIU-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Redis Cache" vertex="1">
-          <mxGeometry height="60" width="120" x="348" y="850" as="geometry" />
+          <mxGeometry height="60" width="120" x="385" y="852" as="geometry" />
         </mxCell>
         <mxCell id="zII8FL1W6vDsOD84WCIU-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="RapidNow Frontend" vertex="1">
           <mxGeometry height="60" width="341.5" x="70.5" y="148" as="geometry" />
@@ -108,6 +108,15 @@
         </mxCell>
         <mxCell id="zII8FL1W6vDsOD84WCIU-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Credential Vault&amp;nbsp;" vertex="1">
           <mxGeometry height="48" width="102" x="299.5" y="374" as="geometry" />
+        </mxCell>
+        <mxCell id="JEUizxt-pyhx6dGXGkAJ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Redis Cache" vertex="1">
+          <mxGeometry height="60" width="120" x="299.5" y="1190" as="geometry" />
+        </mxCell>
+        <mxCell id="JEUizxt-pyhx6dGXGkAJ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Agent Loop" vertex="1">
+          <mxGeometry height="30" width="60" x="146" y="1384" as="geometry" />
+        </mxCell>
+        <mxCell id="JEUizxt-pyhx6dGXGkAJ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;ul style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;&lt;li&gt;Observability &amp;amp; Evaluations&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="60" width="155" x="574" y="842" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
