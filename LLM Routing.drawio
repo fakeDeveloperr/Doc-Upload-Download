@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="b4t-OHUZPeLjAcX_frFG">
-    <mxGraphModel dx="2398" dy="940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="2243" dy="996" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O-2L20qfE0jgSMuz00uW-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=top;" value="SDK Workspace" vertex="1">
-          <mxGeometry height="110" width="251" x="1346" y="1689" as="geometry" />
+          <mxGeometry height="110" width="251" x="1002" y="1422" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=top;" value="MCP Server" vertex="1">
           <mxGeometry height="138" width="199" x="101" y="1204" as="geometry" />
@@ -247,7 +247,7 @@
           <mxGeometry height="60" width="120" x="352" y="1971" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Collection of Fluent (.ts) files" vertex="1">
-          <mxGeometry height="43" width="207" x="1370" y="1746" as="geometry" />
+          <mxGeometry height="43" width="207" x="1026" y="1479" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
