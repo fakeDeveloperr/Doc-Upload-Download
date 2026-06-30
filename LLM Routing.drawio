@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-86" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=top;" value="LiteLLM LLM Gateway" vertex="1">
           <mxGeometry height="298" width="218" x="-460" y="1568" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=top;" value="SDK Workspace" vertex="1">
-          <mxGeometry height="110" width="251" x="1506" y="1656" as="geometry" />
+          <mxGeometry height="110" width="251" x="1102" y="1744" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=top;" value="MCP Server" vertex="1">
           <mxGeometry height="152" width="199" x="101" y="1204" as="geometry" />
@@ -130,7 +133,7 @@
         <mxCell id="JEUizxt-pyhx6dGXGkAJ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;ul style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: left;&quot;&gt;&lt;li&gt;Observability &amp;amp; Evaluations usinf LangFuse&lt;/li&gt;&lt;/ul&gt;" vertex="1">
           <mxGeometry height="60" width="155" x="574" y="842" as="geometry" />
         </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-50" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" target="O-2L20qfE0jgSMuz00uW-9">
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-102" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Build Tool Registry&amp;nbsp;" vertex="1">
@@ -156,47 +159,35 @@
         <mxCell id="O-2L20qfE0jgSMuz00uW-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=top;" value="MCP Client" vertex="1">
           <mxGeometry height="78" width="170" x="115" y="1424" as="geometry" />
         </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-51" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" target="O-2L20qfE0jgSMuz00uW-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow SDK" vertex="1">
-          <mxGeometry height="60" width="120" x="605" y="1163" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow SDK&lt;div&gt;Fluent Code Generation&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1309" y="969" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-52" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" target="O-2L20qfE0jgSMuz00uW-19">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-54" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" target="O-2L20qfE0jgSMuz00uW-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-55" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" target="O-2L20qfE0jgSMuz00uW-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow SDK CLI" vertex="1">
-          <mxGeometry height="60" width="120" x="762" y="1068" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow SDK Connection and Credential aliases" vertex="1">
-          <mxGeometry height="60" width="120" x="762" y="1265" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Fluent file (.ts) generator&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="120" x="1314" y="1076" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow SDK Build Executor" vertex="1">
-          <mxGeometry height="60" width="120" x="981" y="1008" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow SDK Deploy Executor" vertex="1">
-          <mxGeometry height="60" width="120" x="981" y="1117" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-53" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;elbow=vertical;" target="O-2L20qfE0jgSMuz00uW-12">
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-95" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Runtime Instance Authentication" vertex="1">
-          <mxGeometry height="60" width="120" x="762" y="1163" as="geometry" />
+        <mxCell id="O-2L20qfE0jgSMuz00uW-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow SDK CLI (Node.js/npm)" vertex="1">
+          <mxGeometry height="60" width="120" x="1047" y="1163" as="geometry" />
         </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Platform Record Injection" vertex="1">
-          <mxGeometry height="60" width="120" x="1314" y="1173" as="geometry" />
+        <mxCell id="O-2L20qfE0jgSMuz00uW-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow SDK Connection and Credential aliases" vertex="1">
+          <mxGeometry height="60" width="120" x="1042" y="1062" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-134" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-2L20qfE0jgSMuz00uW-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow SDK Build Executor" vertex="1">
+          <mxGeometry height="60" width="120" x="1276" y="1103" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-128" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-129" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O-2L20qfE0jgSMuz00uW-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow SDK Deploy Executor" vertex="1">
+          <mxGeometry height="60" width="120" x="1269" y="1231" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Generic Query Tool" vertex="1">
           <mxGeometry height="60" width="120" x="425" y="1523" as="geometry" />
@@ -207,53 +198,26 @@
         <mxCell id="O-2L20qfE0jgSMuz00uW-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Runtime Instance Authentication" vertex="1">
           <mxGeometry height="60" width="120" x="425" y="1424" as="geometry" />
         </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Error Handler" vertex="1">
-          <mxGeometry height="60" width="120" x="703" y="1447" as="geometry" />
-        </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="SSE Transport Layer" vertex="1">
           <mxGeometry height="40" width="163" x="119" y="1291" as="geometry" />
         </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="SDK Deploy Authentication" vertex="1">
-          <mxGeometry height="60" width="120" x="1145" y="1117" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Runtime Instance Authentication" vertex="1">
-          <mxGeometry height="60" width="120" x="372" y="2294" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-31" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Any User" vertex="1">
-          <mxGeometry height="60" width="120" x="46" y="2294" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Any ServiceNow Instance" vertex="1">
-          <mxGeometry height="60" width="120" x="197" y="2294" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow SDK Deployment" vertex="1">
-          <mxGeometry height="60" width="120" x="537" y="2294" as="geometry" />
-        </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-align: left;&quot;&gt;SDK build failure&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;SDK deploy failure&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;file write failure&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;unexpected runtime failure&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="156" width="209" x="1112" y="1616" as="geometry" />
+          <mxGeometry height="156" width="209" x="1393" y="1710" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-39" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;Fixed SDK workspace path&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;Fixed ServiceNow SDK auth context&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;Fixed trigger type: record.updated&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;Fixed action type: core.log&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;Fixed deployment mechanism through local SDK CLI&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="255" width="209" x="1092" y="1807" as="geometry" />
+          <mxGeometry height="255" width="209" x="1401" y="1907" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;SDK Adapter&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;ul&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span&gt;auth selection&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span&gt;workspace preparation&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span&gt;file generation&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span&gt;build&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span&gt;deploy/install&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span&gt;log capture&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span&gt;error mapping&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span&gt;cleanup&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="255" width="209" x="1537" y="1361" as="geometry" />
+          <mxGeometry height="255" width="209" x="1119" y="1894" as="geometry" />
         </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="SDK Build" vertex="1">
-          <mxGeometry height="60" width="120" x="914" y="1694" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-47" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" target="O-2L20qfE0jgSMuz00uW-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-48" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" target="O-2L20qfE0jgSMuz00uW-41">
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-117" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="O-2L20qfE0jgSMuz00uW-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-42" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Build Worker&amp;nbsp;" vertex="1">
-          <mxGeometry height="60" width="120" x="714" y="1754" as="geometry" />
-        </mxCell>
-        <mxCell id="O-2L20qfE0jgSMuz00uW-43" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="SDK Deploy" vertex="1">
-          <mxGeometry height="60" width="120" x="914" y="1823" as="geometry" />
+          <mxGeometry height="60" width="120" x="884" y="1162" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Collection of Fluent (.ts) files" vertex="1">
-          <mxGeometry height="43" width="207" x="1530" y="1713" as="geometry" />
+          <mxGeometry height="43" width="207" x="1126" y="1801" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-variant-ligatures: none; text-align: start; white-space: pre-wrap;&quot;&gt;const mcpClient = await getMCPClient();&lt;/span&gt;" vertex="1">
           <mxGeometry height="64" width="169.5" x="43" y="1500" as="geometry" />
@@ -274,10 +238,10 @@
           <mxGeometry height="64" width="190" x="-115" y="1331" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Controller Job" vertex="1">
-          <mxGeometry height="40" width="163" x="118.5" y="1638" as="geometry" />
+          <mxGeometry height="40" width="163" x="119" y="1704" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="AI Orchestrator Job" vertex="1">
-          <mxGeometry height="40" width="163" x="118.5" y="1702" as="geometry" />
+          <mxGeometry height="40" width="163" x="119" y="1752" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;p style=&quot;cursor: text; box-sizing: border-box; margin: 0px; padding: 0px; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0;&quot;&gt;&lt;span class=&quot;hljs-keyword&quot;&gt;const&lt;/span&gt; transport = &lt;span class=&quot;hljs-keyword&quot;&gt;new&lt;/span&gt; SSEClientTransport(&lt;span class=&quot;hljs-keyword&quot;&gt;new&lt;/span&gt; URL(mcpServerUrl));&lt;/p&gt;" vertex="1">
           <mxGeometry height="64" width="135" x="203" y="1360" as="geometry" />
@@ -286,7 +250,7 @@
           <mxGeometry height="28" width="120" x="140" y="1456" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Node.Js Memory contains discoveredTools" vertex="1">
-          <mxGeometry height="40" width="163" x="118.5" y="1766" as="geometry" />
+          <mxGeometry height="40" width="163" x="119" y="1646" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-37" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-28">
           <mxGeometry relative="1" as="geometry" />
@@ -324,71 +288,177 @@
         <mxCell id="vPe8cP5tGbT33j0wnf3R-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-variant-ligatures: none; text-align: start; white-space: pre-wrap;&quot;&gt;REST API Endpoint (v1/chat/completions)&lt;/span&gt;" vertex="1">
           <mxGeometry height="43" width="169.5" x="-126.5" y="1719" as="geometry" />
         </mxCell>
-        <mxCell id="vPe8cP5tGbT33j0wnf3R-55" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-46">
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-55" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-56" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vPe8cP5tGbT33j0wnf3R-57" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-50">
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-57" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-45" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Gateway Translation" vertex="1">
-          <mxGeometry height="40" width="163" x="-430" y="1795" as="geometry" />
+          <mxGeometry height="40" width="163" x="-430" y="1800" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-52" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-46" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Model Mapping Lookup" vertex="1">
-          <mxGeometry height="40" width="163" x="-1189" y="1719" as="geometry" />
+          <mxGeometry height="40" width="163" x="-995" y="1723" as="geometry" />
         </mxCell>
-        <mxCell id="vPe8cP5tGbT33j0wnf3R-53" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-49">
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-53" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Structural re-mapping&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="163" x="-1192" y="1795" as="geometry" />
+          <mxGeometry height="40" width="163" x="-997" y="1791" as="geometry" />
         </mxCell>
         <UserObject label="It reads the string &lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;46&quot;&gt;&quot;model&quot;: &quot;rapidnow-widget-engine&quot;&lt;/code&gt;. It checks its internal configuration file (&lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;124&quot;&gt;config.yaml&lt;/code&gt;) to see what that alias points to (e.g., Phi-4 on GitHub Models, or Claude on Anthropic)." link="It reads the string &lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;46&quot;&gt;&quot;model&quot;: &quot;rapidnow-widget-engine&quot;&lt;/code&gt;. It checks its internal configuration file (&lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;124&quot;&gt;config.yaml&lt;/code&gt;) to see what that alias points to (e.g., Phi-4 on GitHub Models, or Claude on Anthropic)." id="vPe8cP5tGbT33j0wnf3R-48">
           <mxCell parent="1" style="text;whiteSpace=wrap;html=1;fontSize=10;labelBorderColor=none;verticalAlign=middle;spacingLeft=0;strokeWidth=1;fillColor=none;strokeColor=default;perimeterSpacing=0;" vertex="1">
-            <mxGeometry height="65" width="333" x="-1655" y="1672" as="geometry" />
+            <mxGeometry height="65" width="333" x="-1539" y="1691" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="If your backend model is Phi-4 (via GitHub Models), it keeps your OpenAI structure. If you mapped it to Gemini or Claude, LiteLLM automatically shifts your &lt;code data-path-to-node=&quot;5,1,0&quot; data-index-in-node=&quot;183&quot;&gt;systemInstruction&lt;/code&gt; and &lt;code data-path-to-node=&quot;5,1,0&quot; data-index-in-node=&quot;205&quot;&gt;userPrompt&lt;/code&gt; into their custom formats in memory." link="It reads the string &lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;46&quot;&gt;&quot;model&quot;: &quot;rapidnow-widget-engine&quot;&lt;/code&gt;. It checks its internal configuration file (&lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;124&quot;&gt;config.yaml&lt;/code&gt;) to see what that alias points to (e.g., Phi-4 on GitHub Models, or Claude on Anthropic)." id="vPe8cP5tGbT33j0wnf3R-49">
           <mxCell parent="1" style="text;whiteSpace=wrap;html=1;fontSize=10;labelBorderColor=none;verticalAlign=middle;spacingLeft=0;strokeWidth=1;fillColor=none;strokeColor=default;perimeterSpacing=0;" vertex="1">
-            <mxGeometry height="65" width="333" x="-1655" y="1770" as="geometry" />
+            <mxGeometry height="65" width="333" x="-1536" y="1794" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="vPe8cP5tGbT33j0wnf3R-54" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-51">
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-54" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vPe8cP5tGbT33j0wnf3R-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Secure Outbound Flight" vertex="1">
-          <mxGeometry height="40" width="163" x="-1190" y="1873" as="geometry" />
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Secure Payload / Outbound Flight" vertex="1">
+          <mxGeometry height="40" width="163" x="-997" y="1859" as="geometry" />
         </mxCell>
         <UserObject label="LiteLLM injects the hidden API key from its secure environment variables into the headers and forwards the freshly formatted JSON packet to the provider&#39;s remote servers over the web." link="It reads the string &lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;46&quot;&gt;&quot;model&quot;: &quot;rapidnow-widget-engine&quot;&lt;/code&gt;. It checks its internal configuration file (&lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;124&quot;&gt;config.yaml&lt;/code&gt;) to see what that alias points to (e.g., Phi-4 on GitHub Models, or Claude on Anthropic)." id="vPe8cP5tGbT33j0wnf3R-51">
           <mxCell parent="1" style="text;whiteSpace=wrap;html=1;fontSize=10;labelBorderColor=none;verticalAlign=middle;spacingLeft=0;strokeWidth=1;fillColor=none;strokeColor=default;perimeterSpacing=0;" vertex="1">
-            <mxGeometry height="65" width="333" x="-1655" y="1866" as="geometry" />
+            <mxGeometry height="65" width="333" x="-1531" y="1897" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-variant-ligatures: none; text-align: start; white-space: pre-wrap;&quot;&gt;POST Request&lt;/span&gt;" vertex="1">
           <mxGeometry height="31" width="169.5" x="-289.5" y="2006" as="geometry" />
         </mxCell>
-        <mxCell id="vPe8cP5tGbT33j0wnf3R-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=top;" value="Cloud Provider" vertex="1">
-          <mxGeometry height="219" width="279" x="-1151" y="1419" as="geometry" />
-        </mxCell>
-        <mxCell id="vPe8cP5tGbT33j0wnf3R-61" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-59">
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-81" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vPe8cP5tGbT33j0wnf3R-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Destination URLs" vertex="1">
-          <mxGeometry height="40" width="163" x="-429" y="1737" as="geometry" />
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=top;" value="Cloud Provider" vertex="1">
+          <mxGeometry height="124" width="279" x="-1305" y="1403" as="geometry" />
         </mxCell>
-        <mxCell id="vPe8cP5tGbT33j0wnf3R-62" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-ligatures: none; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;#1f1f1f&quot; face=&quot;Google Sans Flex, Google Sans, Helvetica Neue, sans-serif&quot;&gt;Connection via Httpx&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="43" width="73" x="-645" y="1595" as="geometry" />
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-65" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-471" y="1757" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-68" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=top;" value="systemInstruction" vertex="1">
-          <mxGeometry height="97" width="163" x="-694" y="1395" as="geometry" />
+          <mxGeometry height="97" width="163" x="-839" y="1549" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="&lt;span style=&quot;font-family: Helvetica; font-size: 10px; font-weight: 400;&quot;&gt;User Prompt + Fetched Tools&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="100" x="-666" y="1426" as="geometry" />
+          <mxGeometry height="40" width="100" x="-811" y="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-ligatures: none; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;#1f1f1f&quot; face=&quot;Google Sans Flex, Google Sans, Helvetica Neue, sans-serif&quot;&gt;Connection via Httpx&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="43" width="151" x="-1068" y="1556" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-70" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-ligatures: none; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;#1f1f1f&quot; face=&quot;Google Sans Flex, Google Sans, Helvetica Neue, sans-serif&quot;&gt;Asynchronous HTTP Client&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="166" x="-1075.5" y="1599" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Secure Payload Flight" vertex="1">
+          <mxGeometry height="40" width="163" x="-430" y="1737" as="geometry" />
+        </mxCell>
+        <UserObject label="so once the systemInstruction reaches the llm (secure payload flight from litellm to cloud provider) what happens next?" link="It reads the string &lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;46&quot;&gt;&quot;model&quot;: &quot;rapidnow-widget-engine&quot;&lt;/code&gt;. It checks its internal configuration file (&lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;124&quot;&gt;config.yaml&lt;/code&gt;) to see what that alias points to (e.g., Phi-4 on GitHub Models, or Claude on Anthropic)." id="vPe8cP5tGbT33j0wnf3R-73">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;fontSize=10;labelBorderColor=none;verticalAlign=middle;spacingLeft=0;strokeWidth=1;fillColor=none;strokeColor=default;perimeterSpacing=0;" vertex="1">
+            <mxGeometry height="65" width="333" x="-1670" y="1308" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-74" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="LLM" vertex="1">
+          <mxGeometry height="40" width="163" x="-1247" y="1456" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-82" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-75" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=top;" value="Cloud Provider to LiteLLM&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="317" width="218" x="-834" y="1173" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-76" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Detokenisation" vertex="1">
+          <mxGeometry height="40" width="163" x="-803" y="1215" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-77" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Egress Dispatch" vertex="1">
+          <mxGeometry height="40" width="163" x="-803" y="1270" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-78" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Return Handshake" vertex="1">
+          <mxGeometry height="40" width="163" x="-803" y="1322" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-79" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Wire format Normalisation" vertex="1">
+          <mxGeometry height="40" width="163" x="-803" y="1373" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-80" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Closing the Gateway Loop" vertex="1">
+          <mxGeometry height="40" width="163" x="-803" y="1430" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-84" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-variant-ligatures: none; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;#1f1f1f&quot; face=&quot;Google Sans Flex, Google Sans, Helvetica Neue, sans-serif&quot;&gt;LLM Generated Response&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="166" x="-562" y="1338" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-104" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-89" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow SDK" vertex="1">
+          <mxGeometry height="60" width="120" x="574" y="1064" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Runtime Instance Authentication" vertex="1">
+          <mxGeometry height="60" width="120" x="1047" y="1268" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-103" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-98" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="&lt;div&gt;Fluent Code Generation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="574" y="1163" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-116" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="O-2L20qfE0jgSMuz00uW-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-101" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Local Workspace Fluent file (.ts) generator&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="729" y="1163" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-105" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Fluent File Injection to ServiceNow Instance" vertex="1">
+          <mxGeometry height="60" width="158" x="1613" y="1231" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-111" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="SDK Build" vertex="1">
+          <mxGeometry height="60" width="120" x="922" y="1907" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-112" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" target="vPe8cP5tGbT33j0wnf3R-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-113" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;" target="vPe8cP5tGbT33j0wnf3R-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-114" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Build Worker&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="722" y="1967" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-115" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="SDK Deploy" vertex="1">
+          <mxGeometry height="60" width="120" x="922" y="2036" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-123" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-124" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-120" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Compile the generated Fluent file (.ts)&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="1448" y="1103" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-121" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Check for any Syntax Errors" vertex="1">
+          <mxGeometry height="60" width="120" x="1637" y="1051" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-122" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Missing Type Definitions" vertex="1">
+          <mxGeometry height="60" width="120" x="1637" y="1148" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-130" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="vPe8cP5tGbT33j0wnf3R-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-126" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Compiled Fluent file (.ts)&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="120" x="1448" y="1231" as="geometry" />
+        </mxCell>
+        <mxCell id="vPe8cP5tGbT33j0wnf3R-127" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="SDK Deploy Authentication" vertex="1">
+          <mxGeometry height="60" width="120" x="1269" y="1348" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
