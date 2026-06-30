@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="b4t-OHUZPeLjAcX_frFG">
-    <mxGraphModel dx="3640" dy="1370" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
+    <mxGraphModel dx="2809" dy="783" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=top;" value="LiteLLM LLM Gateway" vertex="1">
-          <mxGeometry height="298" width="218" x="-460" y="1568" as="geometry" />
+          <mxGeometry height="300" width="218" x="-460" y="1566" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=top;" value="SDK Workspace" vertex="1">
           <mxGeometry height="110" width="251" x="1102" y="1744" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry height="89" width="158" x="377" y="661" as="geometry" />
         </mxCell>
         <mxCell id="zII8FL1W6vDsOD84WCIU-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="ServiceNow Instance" vertex="1">
-          <mxGeometry height="60" width="120" x="49" y="493" as="geometry" />
+          <mxGeometry height="60" width="120" x="69" y="496" as="geometry" />
         </mxCell>
         <mxCell id="zII8FL1W6vDsOD84WCIU-32" edge="1" parent="1" source="zII8FL1W6vDsOD84WCIU-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="zII8FL1W6vDsOD84WCIU-14">
           <mxGeometry relative="1" as="geometry" />
@@ -143,7 +143,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Ops Tool Registry" vertex="1">
-          <mxGeometry height="60" width="120" x="425" y="1325" as="geometry" />
+          <mxGeometry height="60" width="120" x="423" y="1294" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-2" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="O-2L20qfE0jgSMuz00uW-28">
           <mxGeometry relative="1" as="geometry" />
@@ -190,13 +190,13 @@
           <mxGeometry height="60" width="120" x="1269" y="1231" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Generic Query Tool" vertex="1">
-          <mxGeometry height="60" width="120" x="425" y="1523" as="geometry" />
+          <mxGeometry height="60" width="120" x="423" y="1500" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-26" edge="1" parent="1" source="O-2L20qfE0jgSMuz00uW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="O-2L20qfE0jgSMuz00uW-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Runtime Instance Authentication" vertex="1">
-          <mxGeometry height="60" width="120" x="425" y="1424" as="geometry" />
+          <mxGeometry height="60" width="120" x="423" y="1403" as="geometry" />
         </mxCell>
         <mxCell id="O-2L20qfE0jgSMuz00uW-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="SSE Transport Layer" vertex="1">
           <mxGeometry height="40" width="163" x="119" y="1291" as="geometry" />
@@ -310,16 +310,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-47" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;fontStyle=1;verticalAlign=middle;" value="Structural re-mapping&amp;nbsp;" vertex="1">
-          <mxGeometry height="40" width="163" x="-997" y="1791" as="geometry" />
+          <mxGeometry height="40" width="163" x="-995" y="1792" as="geometry" />
         </mxCell>
         <UserObject label="It reads the string &lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;46&quot;&gt;&quot;model&quot;: &quot;rapidnow-widget-engine&quot;&lt;/code&gt;. It checks its internal configuration file (&lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;124&quot;&gt;config.yaml&lt;/code&gt;) to see what that alias points to (e.g., Phi-4 on GitHub Models, or Claude on Anthropic)." link="It reads the string &lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;46&quot;&gt;&quot;model&quot;: &quot;rapidnow-widget-engine&quot;&lt;/code&gt;. It checks its internal configuration file (&lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;124&quot;&gt;config.yaml&lt;/code&gt;) to see what that alias points to (e.g., Phi-4 on GitHub Models, or Claude on Anthropic)." id="vPe8cP5tGbT33j0wnf3R-48">
           <mxCell parent="1" style="text;whiteSpace=wrap;html=1;fontSize=10;labelBorderColor=none;verticalAlign=middle;spacingLeft=0;strokeWidth=1;fillColor=none;strokeColor=default;perimeterSpacing=0;" vertex="1">
-            <mxGeometry height="65" width="333" x="-1539" y="1691" as="geometry" />
+            <mxGeometry height="65" width="333" x="-1531" y="1691.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="If your backend model is Phi-4 (via GitHub Models), it keeps your OpenAI structure. If you mapped it to Gemini or Claude, LiteLLM automatically shifts your &lt;code data-path-to-node=&quot;5,1,0&quot; data-index-in-node=&quot;183&quot;&gt;systemInstruction&lt;/code&gt; and &lt;code data-path-to-node=&quot;5,1,0&quot; data-index-in-node=&quot;205&quot;&gt;userPrompt&lt;/code&gt; into their custom formats in memory." link="It reads the string &lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;46&quot;&gt;&quot;model&quot;: &quot;rapidnow-widget-engine&quot;&lt;/code&gt;. It checks its internal configuration file (&lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;124&quot;&gt;config.yaml&lt;/code&gt;) to see what that alias points to (e.g., Phi-4 on GitHub Models, or Claude on Anthropic)." id="vPe8cP5tGbT33j0wnf3R-49">
           <mxCell parent="1" style="text;whiteSpace=wrap;html=1;fontSize=10;labelBorderColor=none;verticalAlign=middle;spacingLeft=0;strokeWidth=1;fillColor=none;strokeColor=default;perimeterSpacing=0;" vertex="1">
-            <mxGeometry height="65" width="333" x="-1536" y="1794" as="geometry" />
+            <mxGeometry height="65" width="333" x="-1531" y="1794" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-54" edge="1" parent="1" source="vPe8cP5tGbT33j0wnf3R-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="vPe8cP5tGbT33j0wnf3R-51">
@@ -330,7 +330,7 @@
         </mxCell>
         <UserObject label="LiteLLM injects the hidden API key from its secure environment variables into the headers and forwards the freshly formatted JSON packet to the provider&#39;s remote servers over the web." link="It reads the string &lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;46&quot;&gt;&quot;model&quot;: &quot;rapidnow-widget-engine&quot;&lt;/code&gt;. It checks its internal configuration file (&lt;code data-path-to-node=&quot;5,0,0&quot; data-index-in-node=&quot;124&quot;&gt;config.yaml&lt;/code&gt;) to see what that alias points to (e.g., Phi-4 on GitHub Models, or Claude on Anthropic)." id="vPe8cP5tGbT33j0wnf3R-51">
           <mxCell parent="1" style="text;whiteSpace=wrap;html=1;fontSize=10;labelBorderColor=none;verticalAlign=middle;spacingLeft=0;strokeWidth=1;fillColor=none;strokeColor=default;perimeterSpacing=0;" vertex="1">
-            <mxGeometry height="65" width="333" x="-1531" y="1897" as="geometry" />
+            <mxGeometry height="65" width="333" x="-1527" y="1897" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="vPe8cP5tGbT33j0wnf3R-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=10;" value="&lt;span style=&quot;color: rgb(31, 31, 31); font-family: &amp;quot;Google Sans Flex&amp;quot;, &amp;quot;Google Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-variant-ligatures: none; text-align: start; white-space: pre-wrap;&quot;&gt;POST Request&lt;/span&gt;" vertex="1">
