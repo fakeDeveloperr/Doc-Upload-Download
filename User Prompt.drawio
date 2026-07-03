@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="5-FlXpsxmmRyJqYsML19">
+    <mxGraphModel dx="911" dy="593" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;" value="User Prompt" vertex="1">
+          <mxGeometry height="60" width="120" x="285" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=1;fontSize=15;verticalAlign=top;" value="Interactive Agent Flow" vertex="1">
+          <mxGeometry height="440" width="401" x="162" y="139" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0;fontSize=15;" value="Understand Intent" vertex="1">
+          <mxGeometry height="40.5" width="308" x="208.5" y="201" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0;fontSize=15;" value="Check Missing Details" vertex="1">
+          <mxGeometry height="40.5" width="308" x="208.5" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0;fontSize=15;" value="Ask Confirmation&amp;nbsp;" vertex="1">
+          <mxGeometry height="40.5" width="308" x="208.5" y="426" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0;fontSize=15;" value="Propose Blueprint&amp;nbsp;" vertex="1">
+          <mxGeometry height="40.5" width="308" x="208.5" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0;fontSize=15;" value="Inject to PDI" vertex="1">
+          <mxGeometry height="40.5" width="308" x="208.5" y="502" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-12" parent="1" style="text;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Times New Roman;perimeterSpacing=0;html=1;" value="Create an automated flow for the Incident table.&lt;br&gt;Trigger it when Incident Priority is 1.&lt;br&gt;Action: Log or create a high-priority alert." vertex="1">
+          <mxGeometry height="55" width="241" x="692" y="174" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-14" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeColor=#666666;labelBackgroundColor=none;fillColor=#f5f5f5;fontColor=#333333;gradientColor=none;" value="&lt;div style=&quot;font-size: 14px; font-style: normal; font-weight: 400; line-height: 20px;&quot;&gt;&lt;div class=&quot;___i31lg00 f10pi13n f14t3ns0 f1nbblvp fat0sn4 f1ov4xf1 fekwl8i f1lmfglv f1oz7aqm f1abmfm4 f1w619qj f16h0jq8&quot;&gt;&lt;table class=&quot;___14hgwyo f1ddd56o f16vktn6 f1enuhaj fdclmfp ftgm304 f1uinfot fibjyge fvueend f9yszdx f1fu4s3n f3l3pb3 f1s2k7dp f8fmt76 fjvbh62 fysh76l fic4ptz f1yenhzu f1yn6nvh f14tj6oe f1jq587y f1el8yx3 f1pymoxg f1ofu761 fe6itr f7coize f1794535 f70r78m f4zgifc fk1v6el f16pyhcb fo436u6 fzy4j18 fc43013 f1hmrcvb fc4t9fq fgp09rh fjnyn6r&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;th&gt;Requirement&lt;/th&gt;&lt;th&gt;Interpreted Meaning&lt;/th&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Object&lt;/td&gt;&lt;td&gt;Flow Designer Flow&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Table&lt;/td&gt;&lt;td&gt;Incident &lt;code&gt;[incident]&lt;/code&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Trigger&lt;/td&gt;&lt;td&gt;Record created or updated&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Condition&lt;/td&gt;&lt;td&gt;Priority is 1&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Action&lt;/td&gt;&lt;td&gt;Log high priority alert&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;Platform&lt;/td&gt;&lt;td&gt;ServiceNow&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&#xa;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="185" width="243" x="1108" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;rounded=0;perimeterSpacing=0;fontFamily=Times New Roman;" value="The LLM should identify that some details are missing.&lt;div&gt;The prompt says: “log a high priority alert”&lt;br&gt;But this can mean multiple things:&lt;/div&gt;" vertex="1">
+          <mxGeometry height="62" width="243" x="692" y="264.25" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-39" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" value="&lt;ul&gt;&lt;li&gt;Add a work note on the incident&lt;/li&gt;&lt;li&gt;Create an event log entry&lt;/li&gt;&lt;li&gt;Create a record in a custom alert table&lt;/li&gt;&lt;li&gt;Send a notification&lt;/li&gt;&lt;li&gt;Create an Alert record in Event Management, if ITOM is available&lt;/li&gt;&lt;li&gt;Write to system logs&lt;/li&gt;&lt;/ul&gt;So the LLM should ask a short clarification instead of assuming." vertex="1">
+          <mxGeometry height="175" width="238" x="1417" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0;fontSize=15;" value="Acknowledge and Interpret" vertex="1">
+          <mxGeometry height="40.5" width="308" x="1700" y="37" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-41" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;labelBorderColor=none;strokeColor=default;" value="LLM should respond like:&lt;div&gt;&lt;br&gt;I can create a Flow Designer flow for the Incident table where the trigger condition is Priority = 1.&lt;br&gt;Before I create it, please confirm what you mean by “log a high priority alert”.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;span&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Then give options.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="136" width="259" x="1717" y="133" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-43" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeColor=default;" value="How should the alert be logged?&lt;br&gt;1. Add a work note to the Incident&lt;br&gt;2. Create an Event in the Event Log&lt;br&gt;3. Create a record in a custom Alert table&lt;br&gt;4. Send notification to an assignment group/user&lt;br&gt;5. Create ITOM Alert record&lt;br&gt;6. Just write to system logs" vertex="1">
+          <mxGeometry height="116" width="245" x="2008" y="133" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-44" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontStyle=0;fontSize=13;" value="User Reply: Write to system logs" vertex="1">
+          <mxGeometry height="40.5" width="163" x="1714" y="404.75" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-45" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Times New Roman;strokeColor=default;" value="&lt;span&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;Create a flow on Incident whenever priority is 1 to log a high priority alert.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="36" width="369" x="434" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-46" parent="1" style="text;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Times New Roman;" value="&lt;span&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;Got it. You want to create a ServiceNow Flow on the Incident table.&lt;/span&gt;&lt;/div&gt;&lt;br class=&quot;scriptor-paragraph&quot;&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;Planned flow:&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;- Table: Incident [incident]&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;- Trigger: When an Incident is created or updated&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;- Condition: Priority is 1 - Critical&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;- Action: Log a high-priority alert&lt;/span&gt;&lt;/div&gt;&lt;br class=&quot;scriptor-paragraph&quot;&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;Before I proceed, how do you want the alert to be logged?&lt;/span&gt;&lt;/div&gt;&lt;br class=&quot;scriptor-paragraph&quot;&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;1. Add work note to the Incident&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;2. Create Event Log entry&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;3. Create record in Alert table&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;4. Send notification&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;5. Create ITOM Alert&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;6. System log only&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="242" width="337" x="1349" y="304" as="geometry" />
+        </mxCell>
+        <mxCell id="vZBtCI7XpDb2YcC_WIwA-47" parent="1" style="text;whiteSpace=wrap;html=1;strokeColor=default;fontFamily=Times New Roman;" value="&lt;span&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;Perfect. I’ll create the flow with this design:&lt;/span&gt;&lt;/div&gt;&lt;br class=&quot;scriptor-paragraph&quot;&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Flow Name:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;High Priority Incident Alert Flow&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Trigger:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Incident is created or updated&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Condition:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Priority is 1&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;- Action:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Update the same Incident record and add this system log message:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&quot;High Priority Alert: This incident has been marked as Priority 1 and requires immediate attention.&quot;&lt;/span&gt;&lt;/div&gt;&lt;br class=&quot;scriptor-paragraph&quot;&gt;&lt;div class=&quot;scriptor-paragraph&quot;&gt;&lt;span&gt;Do you want this flow to trigger only when Priority changes to 1, or every time the Incident is updated while Priority remains 1?&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="198" width="298" x="1931" y="304" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
