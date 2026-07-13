@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="b4t-OHUZPeLjAcX_frFG">
-    <mxGraphModel dx="1106" dy="720" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="672" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,6 +87,12 @@
         </mxCell>
         <mxCell id="P_YzglyMpul9Apfuinjc-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Persist State" vertex="1">
           <mxGeometry height="60" width="120" x="743" y="554" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YzglyMpul9Apfuinjc-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" value="Inject to PDI" vertex="1">
+          <mxGeometry height="60" width="120" x="383" y="589" as="geometry" />
+        </mxCell>
+        <mxCell id="P_YzglyMpul9Apfuinjc-41" edge="1" parent="1" source="P_YzglyMpul9Apfuinjc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="P_YzglyMpul9Apfuinjc-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
